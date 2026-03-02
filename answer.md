@@ -52,4 +52,5 @@ public void mt_getResult(){
 
 Ans: 
 依照順序為Step 1、Step 2、Step 3，可以透過截圖檔案查看到，隨著任務一會先完成自我介紹並PUSH上GIT，而後兩個分支會單獨儲存截圖的內容，並且3個分支內的 Introduction.md 內容都不同。此時回到Main透過Merge合併來將內容合併整合至Main分支。
+
 並且可以透過VSC的圖表來了解不論是製作過程、合併點、編輯內容、時間等，多種更改資料與註解都可以在VSC圖表或Github上查看，進而研究過程或做了甚麼更動內容。
